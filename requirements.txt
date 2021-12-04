@@ -1,0 +1,4 @@
+ta
+schedule
+ccxt
+pandas
